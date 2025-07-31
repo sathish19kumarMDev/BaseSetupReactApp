@@ -18,6 +18,7 @@ import { ProductListResponseModel } from "../../model/apiResponseModel/ProductLi
 
 const windowWidth = Dimensions.get("window").width
 
+
 type Props = {
   item : ProductListResponseModel
 }
